@@ -46,7 +46,7 @@ body {
 	height: 250px;
 	background-image: url(img/cover1.jpg);
 	background-size: cover;
-	background-position: 0 -100x;
+	background-position: 0 -250x;
 	border-top: 5px solid salmon;
 	border-bottom: 5px solid lightskyblue;
 }
